@@ -15,6 +15,7 @@ evenue by Region: View revenue distribution by region to understand geographic p
 
 Product Details: Analyze individual product performance to see top and low-selling items.
 
-Purpose
+# Purpose
+
 This dashboard is designed as a basic tool for visualizing essential sales insights, focusing on core metrics without additional complexity. 
 The interactive filters allow users to explore data by specific categories, making it easier to interpret sales data in context and derive actionable insights.
