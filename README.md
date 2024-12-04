@@ -1,4 +1,5 @@
 # Flipmart Sales Dashboard 📊
+![flipmart Sales DB](https://github.com/Shaikh-areeb/FlipMart-Sales-Dashboard/blob/main/Screenshot%202024-12-04%20210604.png)
 
 ## Overview
 
